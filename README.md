@@ -1,7 +1,7 @@
-# buncombe_zoning_densities
+# Evaluating the correlation between Buncombe county zoning district and various racial population densities
 This is a Data Science project that I am working on to assist a Political Science student with her senior thesis. 
 The hypothesis is that Buncombe county zoning districts have an impact upon racial densities, or vice versa.
-I am providing technical data science assistance, under the guidance of Dr. Brian Drawert.
+This is not my thesis - I am providing technical data science assistance, under the guidance of Dr. Brian Drawert.
 
 Given geojson data for both census blocks and zoning districts, created an overlay intersection of census block data and Buncombe county zoning district data, to create a 3rd layer of children polygons, each of which has a one-to-one relationship with a single parent census block polygon and a single zoning district polygon.
 
